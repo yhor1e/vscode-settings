@@ -1,0 +1,43 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#004B86",
+        "activityBar.background": "#2F2F2F",
+        "editorGroup.background": "#00164D",
+        "sideBar.background": "#001A2F",
+        
+        // status bar
+        "statusBar.background": "#2F2F2F",
+        "statusBar.noFolderBackground": "#2F2F2F",
+        "statusBar.debuggingBackground": "#2F2F2F",
+
+        // error, warn
+        "editorError.foreground": "#FF0000",
+        "editorWarning.foreground": "#FFFF00"
+    },
+    "editor.renderIndentGuides": true,
+    "trailing-spaces.regexp": "[ 　\t]+",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'Ricty Diminished'",
+    "editor.fontSize": 16,
+
+    // HTML
+    "html.format.indentInnerHtml": true,
+    "html.format.extraLiners": "",
+
+    // spell check
+    "cSpell.userWords": [
+        "Ricty",
+        "Customizations",
+        "reindentlines",
+        "pageDown",
+        "pageUp",
+        "tagname",
+        "doctype",
+        "csslint",
+        "stylelint",
+        "combinator",
+        "stylesheet"
+    ]
+
+}
